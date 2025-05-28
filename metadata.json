@@ -2,7 +2,7 @@
   "name": "CatKing",
   "symbol": "CTK",
   "description": "CatKing Token - A revolutionary meme token on Solana blockchain, combining the charm of cats with the power of community-driven innovation. Join the feline revolution in the crypto world!",
-  "image": "https://raw.githubusercontent.com/Junyu950209/catking-token/main/icon.jpg",
+  "image": "https://github.com/Junyu950209/catking-token/blob/main/icon.jpg?raw=true",
   "external_url": "https://catking.io",
   "attributes": [
     {
@@ -25,7 +25,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Junyu950209/catking-token/main/icon.jpg",
+        "uri": "https://github.com/Junyu950209/catking-token/blob/main/icon.jpg?raw=true",
         "type": "image/jpeg"
       }
     ],
